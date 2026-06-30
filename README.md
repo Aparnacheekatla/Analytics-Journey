@@ -1,19 +1,9 @@
-# Analytics-Journey
-SQL learning journey for Business Analytics and Data Analysis interviews.
-# SQL Practice
+# Analytics Journey
 
-This repository documents my SQL learning journey as I transition into Business Analytics.
+This repository documents my journey toward becoming a Business Analyst through hands-on analytics projects.
 
-## Topics
+## Projects
 
-- SELECT
-- WHERE
-- ORDER BY
-- GROUP BY
-- JOINS
-- Aggregations
-- Window Functions
+- Amazon Marketplace Business Analytics (In Progress)
 
-## Goal
-
-Become interview-ready for Business Analyst, BI Analyst, and Data Analyst roles.
+More projects will be added as I continue learning SQL, Power BI, Python, and Business Analytics.
