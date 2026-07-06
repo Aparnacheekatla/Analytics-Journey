@@ -1,17 +1,17 @@
 -- Data Quality Assessment
 -- Can we trust this data?
 
-/*Imagine your manager asks:
+/*Imagine answering this question to leadership:
 
 "Can we trust these sales numbers?"
 
 Before calculating revenue or dashboards, you should be able to say:
 
-✔ No duplicate orders
-✔ No missing customer names
-✔ No negative prices
-✔ No invalid discounts
-✔ Data passed quality checks
+No duplicate orders
+No missing customer names
+No negative prices
+No invalid discounts
+Data passed quality checks
 */
 
 -- Check 1: Duplicate Orders:Is every OrderID unique?
